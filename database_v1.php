@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Music Database</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" title="style" />
+</head>
+<body>
+  <div id="main">
+    <div id="header">
+      <div id="logo">
+        <div id="logo_text">
+          <h1><a href="index.html">Banner</a></h1>
+        </div>
+      </div>
+    </div>
+    <div id="menubar">
+      <ul id="menu">
+        <li class="selected"><a href="index.html">Home</a></li>
+        <li><a href="database.php">Database</a></li>
+        <li><a href="history.html">History</a></li>
+        <li><a href="contact.php">Contact Us</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="site_content">
+      <div class="sidebar">
+      </div>
+      <div id="content">
+      </div>
+    </div>
+    <div id="footer">
+      Copyright &copy; Jeremy Khine 2024 all rights reserved
+    </div>
+  </div>
+</body>
+</html>
